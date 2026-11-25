@@ -2,7 +2,7 @@
 
 Nearly 1,900 quirky and unofficial days — Tie One On Day, Morse Code Day, World Tapir Day — each with a rule that dates it for any year and a sentence or two on what it's actually for.
 
-We built and maintain this list for the Daily Brief in [ThoughtBox](https://thoughtbox.ai) — DEMO LINK HERE. Hope you enjoy it too. PRs welcome.
+We built and maintain this list for the Daily Brief in [ThoughtBox](https://thoughtbox.ai), where it opens your morning with "Today is …". More at [thoughtbox.ai](https://thoughtbox.ai). Hope you enjoy it too. PRs welcome.
 
 ```
 $ python odd_days.py 2027-04-27
