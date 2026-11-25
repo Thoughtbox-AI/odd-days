@@ -4,7 +4,7 @@ Nearly 1,900 quirky and unofficial days — Tie One On Day, Morse Code Day, Worl
 
 We built and maintain this list for the Daily Brief in [ThoughtBox](https://thoughtbox.ai), where it opens your morning with "Today is …". Here's a whole brief, three minutes, read aloud (Tie One On Day is the second slide):
 
-[![A ThoughtBox morning brief, read aloud](https://i.ytimg.com/vi/a1P5tiST-UI/hqdefault.jpg)](https://youtu.be/a1P5tiST-UI)
+[![A ThoughtBox morning brief, read aloud](https://i.ytimg.com/vi/a1P5tiST-UI/maxresdefault.jpg)](https://youtu.be/a1P5tiST-UI)
 
 More at [thoughtbox.ai](https://thoughtbox.ai). Hope you enjoy it too. PRs welcome.
 
